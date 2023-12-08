@@ -3638,7 +3638,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: var(--bs-nav-link-hover-color);
+  color: var(--bs-red);
 }
 .nav-link.disabled {
   color: var(--bs-nav-link-disabled-color);
@@ -3780,7 +3780,7 @@ textarea.form-control-lg {
   white-space: nowrap;
 }
 .navbar-brand:hover, .navbar-brand:focus {
-  color: var(--bs-navbar-brand-hover-color);
+  color: var(--bs-red);
 }
 
 .navbar-nav {
@@ -10850,4 +10850,21 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   min-height: 15rem;
+}
+
+.footerzin{
+  color: #dc3545;
+}
+
+h1{
+  color: #dc3545;
+}
+
+h2{
+  color: #dc3545;
+}
+
+h3{
+  color: #dc3545;
+  font-weight: bold;
 }
