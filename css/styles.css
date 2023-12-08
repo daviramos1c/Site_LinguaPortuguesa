@@ -104,6 +104,11 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.imglivros{
+  width: 70%;
+  padding-top: 1%;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
